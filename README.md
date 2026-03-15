@@ -31,7 +31,8 @@ I'm Richard. Can't say much about myself yet sry
 	<img src="https://media1.tenor.com/m/9Ff8oGTtag8AAAAd/better-call-saul-saul-goodman.gif" alt="NONBINARY SWAG!!!" width="200"/>
 	<img src="https://media1.tenor.com/m/OYYUArMsHGUAAAAd/deltarune-chapter-3.gif" alt="OH GOD NO" width="211"/>
 	<img src="https://media1.tenor.com/m/HnYGqzAKK6AAAAAd/%D1%81%D0%B2%D0%B5%D1%87%D0%BA%D0%B0-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD.gif" alt="спаси и сохрани🙏🙏" width="349"/>
-	<img src="https://media1.tenor.com/m/sMQAbYpJ-VAAAAAd/job-get-a-job.gif" alt="j*b😭😭" width="233"/>
+	<!-- не поверите, но уже трудоустроен -->
+	<!-- <img src="https://media1.tenor.com/m/sMQAbYpJ-VAAAAAd/job-get-a-job.gif" alt="j*b😭😭" width="233"/> -->
 </div>
 
 <!-- ТУПОЙ ЭКСПЕРИМЕНТ НЕ СМОТРИТЕ!!! -->
